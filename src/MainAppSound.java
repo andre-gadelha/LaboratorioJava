@@ -1,10 +1,11 @@
 import br.com.appsound.modelos.MinhasPreferidas;
 import br.com.appsound.modelos.Musica;
 import br.com.appsound.modelos.Podcast;
-import br.com.testes.ClasseTeste;
 
-public class Main {
+public class MainAppSound {
     public static void main(String[] args) {
+
+        System.out.println("APP SOUND");
 
         //Implementando a casse de Tetes
         /*
